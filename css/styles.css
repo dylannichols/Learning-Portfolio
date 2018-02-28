@@ -1,0 +1,16 @@
+
+
+h1 {
+    text-align: center;
+}
+
+.header {
+    background-color: black;
+    text-color: white;
+}
+
+.col-10 {
+    background-color: black;
+    color: white;
+    display: block;
+}
